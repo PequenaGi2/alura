@@ -1,0 +1,151 @@
+body {
+    color: whitesmoke;
+    background: purple;
+    margin: 10px;
+    text-align: center;
+    
+  
+    
+}
+header {
+    border-bottom: solid 3px whitesmoke;
+    border-top: solid 3px whitesmoke;
+    border-left: solid 3px whitesmoke;
+    border-right: solid 3px whitesmoke;
+    border-style: solid;
+    padding: 10px;
+    font-size: 35px;
+    color: whitesmoke;
+    font-family: cursive;
+    background-color: grey;
+  
+    
+    
+}
+
+section {
+    background: 50px black;
+    stroke: aquamarine;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    display: grid;
+    justify-content:center;
+    font-family: cursive;
+    
+}
+
+.chamada-texto {
+    margin-right: 10%;
+    text-align:center;
+    justify-items:left;
+
+
+}
+
+h2 {
+    font-size: 35px;
+    font-family: cursive;
+    border-bottom: solid 3px whitesmoke;
+    border-top: solid 3px whitesmoke;
+    border-left: solid 3px whitesmoke;
+    border-right: solid 3px whitesmoke;
+    background-color: grey;
+  
+
+   
+  }
+  
+  p {
+    font-size: 20px;
+    font-family: cursive;
+    text-align: center;
+   
+
+  }
+
+  img {
+    height: 150px;
+    border-bottom: solid 3px whitesmoke;
+    border-top: solid 3px whitesmoke;
+    border-left: solid 3px whitesmoke;
+    border-right: solid 3px whitesmoke;
+    
+   
+
+  }
+
+.categoria-videos {
+    display: grid;
+    overflow-x: grid;
+    gap: 10px;
+  
+  }
+
+  .categoria-videos {
+    display: grid;
+    overflow-x: auto;
+    gap: 10px;
+  }
+
+  .categoria-videos {
+    display: grid;
+    overflow-x: auto;
+    gap: 10px;
+  }
+  
+  section {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  section {
+    background: black;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  /* código omitido */
+  
+  section {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .chamada {
+    background: grey;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: grid;
+    justify-content: center;
+    
+  }
+
+  /* código omitido */
+
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+    
+
+  }
+
+  iframe{
+        
+    border-bottom: solid 3px whitesmoke;
+    border-top: solid 3px whitesmoke;
+    border-left: solid 3px whitesmoke;
+    border-right: solid 3px whitesmoke;
+
+  }
+
+
+
+
+
+
+  
+
+  
+
